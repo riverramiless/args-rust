@@ -1,2 +1,4 @@
-# args-rust
+# Args Rust
+
 Command line flag parser in Rust.
+
